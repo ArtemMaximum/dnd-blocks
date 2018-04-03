@@ -1,0 +1,7 @@
+.gitignorescripts/*.tpl.js
+dist
+dist-raw
+static
+scripts
+webpack
+webpack.config.js
